@@ -1,7 +1,7 @@
 {
   "name": "@dongwu-kim/eth-provider-front",
-  "version": "0.1.0",
-  "types": "./lib/index.d.ts",
+  "version": "0.1.4",
+  "types": "./dist/index.d.ts",
   "publishConfig": {
     "access": "public"
   },
